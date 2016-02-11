@@ -1,0 +1,7 @@
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Route Finder\bin\Debug\Route Finder.exe
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Route Finder\bin\Debug\Route Finder.pdb
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Route Finder\obj\x86\Debug\Route_Finder.Form1.resources
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Route Finder\obj\x86\Debug\Route_Finder.Properties.Resources.resources
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Route Finder\obj\x86\Debug\Route Finder.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Route Finder\obj\x86\Debug\Route Finder.exe
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Route Finder\obj\x86\Debug\Route Finder.pdb

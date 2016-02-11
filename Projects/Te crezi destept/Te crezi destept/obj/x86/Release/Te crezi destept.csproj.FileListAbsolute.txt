@@ -1,0 +1,9 @@
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\bin\Release\Te crezi destept.exe
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\bin\Release\Te crezi destept.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Release\Te_crezi_destept.Form1.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Release\Te_crezi_destept.Properties.Resources.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Release\Te crezi destept.exe
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Release\Te crezi destept.pdb

@@ -1,0 +1,15 @@
+F:\Atestat\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+F:\Atestat\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+F:\Atestat\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+F:\Atestat\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\Atestat\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\Atestat\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+F:\Atestat\C#\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb

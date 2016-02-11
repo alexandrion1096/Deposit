@@ -1,0 +1,44 @@
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\bin\Debug\Te crezi destept.exe
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\bin\Debug\Te crezi destept.pdb
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Form1.resources
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Properties.Resources.resources
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\obj\x86\Debug\Te crezi destept.exe
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Te crezi destept\obj\x86\Debug\Te crezi destept.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.exe
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.exe
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Form1.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Properties.Resources.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.exe
+F:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.pdb
+F:\Atestat\C#\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.exe
+F:\Atestat\C#\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.pdb
+F:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Form1.resources
+F:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Properties.Resources.resources
+F:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.exe
+E:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.pdb
+E:\Atestat\C#\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.exe
+E:\Atestat\C#\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.pdb
+E:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Form1.resources
+E:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Properties.Resources.resources
+E:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Atestat\C#\Te crezi destept\Te crezi destept\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\bin\Debug\Te crezi destept.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Form1.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te_crezi_destept.Properties.Resources.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Te crezi destept\Te crezi destept\obj\x86\Debug\Te crezi destept.csprojResolveAssemblyReference.cache

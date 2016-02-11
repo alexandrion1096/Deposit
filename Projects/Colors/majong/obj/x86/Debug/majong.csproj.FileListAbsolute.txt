@@ -1,0 +1,54 @@
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\bin\Debug\majong.exe
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\bin\Debug\majong.pdb
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\obj\x86\Debug\majong.Form1.resources
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\obj\x86\Debug\majong.Properties.Resources.resources
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\obj\x86\Debug\majong.exe
+C:\Users\Bogdan\AppData\Local\Temporary Projects\majong\obj\x86\Debug\majong.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.exe
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\bin\Debug\majong.exe
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\bin\Debug\majong.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.Form1.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.Properties.Resources.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Atestat\C#\majong\majong\obj\x86\Debug\majong.exe
+E:\Atestat\C#\majong\majong\obj\x86\Debug\majong.pdb
+E:\Atestat\C#\majong\majong\bin\Debug\majong.exe
+E:\Atestat\C#\majong\majong\bin\Debug\majong.pdb
+E:\Atestat\C#\majong\majong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Atestat\C#\majong\majong\obj\x86\Debug\majong.Form1.resources
+E:\Atestat\C#\majong\majong\obj\x86\Debug\majong.Properties.Resources.resources
+E:\Atestat\C#\majong\majong\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Atestat\C#\majong\majong\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Atestat\C#\majong\majong\obj\x86\Debug\majong.exe
+F:\Atestat\C#\majong\majong\obj\x86\Debug\majong.pdb
+F:\Atestat\C#\majong\majong\bin\Debug\majong.exe
+F:\Atestat\C#\majong\majong\bin\Debug\majong.pdb
+F:\Atestat\C#\majong\majong\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Atestat\C#\majong\majong\obj\x86\Debug\majong.Form1.resources
+F:\Atestat\C#\majong\majong\obj\x86\Debug\majong.Properties.Resources.resources
+F:\Atestat\C#\majong\majong\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Atestat\C#\majong\majong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.Form1.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.Properties.Resources.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Debug\majong.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\bin\Debug\majong.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\bin\Debug\majong.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\bin\Debug\majong.exe.config
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\bin\Debug\majong.exe.config
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\obj\x86\Debug\majong.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\obj\x86\Debug\majong.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\obj\x86\Debug\majong.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\obj\x86\Debug\majong.Form1.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\obj\x86\Debug\majong.Properties.Resources.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\obj\x86\Debug\majong.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\bin\Debug\majong.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Colors\majong\bin\Debug\majong.pdb

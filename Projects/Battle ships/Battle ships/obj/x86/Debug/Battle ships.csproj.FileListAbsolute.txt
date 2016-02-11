@@ -1,0 +1,8 @@
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Battle ships\bin\Debug\Battle ships.exe
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Battle ships\bin\Debug\Battle ships.pdb
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Battle ships\obj\x86\Debug\Battle ships.exe
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\Battle ships\obj\x86\Debug\Battle ships.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Battle ships\Battle ships\obj\x86\Debug\Battle ships.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Battle ships\Battle ships\obj\x86\Debug\Battle ships.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Battle ships\Battle ships\bin\Debug\Battle ships.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Battle ships\Battle ships\bin\Debug\Battle ships.pdb

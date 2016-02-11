@@ -1,0 +1,7 @@
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\bin\Release\majong.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\bin\Release\majong.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Release\majong.Form1.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Release\majong.Properties.Resources.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Release\majong.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Release\majong.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\majong\majong\obj\x86\Release\majong.pdb

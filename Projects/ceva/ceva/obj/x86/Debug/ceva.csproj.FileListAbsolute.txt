@@ -1,0 +1,7 @@
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\ceva\obj\x86\Debug\ceva.Form1.resources
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\ceva\obj\x86\Debug\ceva.Properties.Resources.resources
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\ceva\obj\x86\Debug\ceva.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\ceva\bin\Debug\ceva.exe
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\ceva\bin\Debug\ceva.pdb
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\ceva\obj\x86\Debug\ceva.exe
+C:\Users\Alexandru-HP\AppData\Local\Temporary Projects\ceva\obj\x86\Debug\ceva.pdb

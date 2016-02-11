@@ -1,0 +1,37 @@
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\bin\Debug\Ghiceste logoul.exe
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\bin\Debug\Ghiceste logoul.pdb
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Form1.resources
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Properties.Resources.resources
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\obj\x86\Debug\Ghiceste logoul.exe
+C:\Users\Bogdan\AppData\Local\Temporary Projects\Ghiceste logoul\obj\x86\Debug\Ghiceste logoul.pdb
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Form1.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Properties.Resources.resources
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bogdan\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bogdan\documents\visual studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\bin\Debug\Ghiceste logo-ul.exe
+C:\Users\Bogdan\documents\visual studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\bin\Debug\Ghiceste logo-ul.pdb
+C:\Users\Bogdan\documents\visual studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.exe
+C:\Users\Bogdan\documents\visual studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.pdb
+F:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.exe
+F:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.pdb
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.exe
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.pdb
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\bin\Debug\Ghiceste logo-ul.exe
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\bin\Debug\Ghiceste logo-ul.pdb
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Form1.resources
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Properties.Resources.resources
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Atestat\C#\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logo-ul.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\bin\Debug\Ghiceste logo-ul.exe
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\bin\Debug\Ghiceste logo-ul.pdb
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Form1.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste_logoul.Properties.Resources.resources
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logoul.csproj.GenerateResource.Cache
+C:\Users\Alexandru-HP\Documents\Visual Studio 2010\Projects\Ghiceste logoul\Ghiceste logoul\obj\x86\Debug\Ghiceste logoul.csprojResolveAssemblyReference.cache
